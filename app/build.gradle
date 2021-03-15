@@ -54,3 +54,47 @@ sceneform.asset('sampledata/Animals/Wolves.obj',
         'default',
         'sampledata/wolves.sfa',
         'src/main/assets/wolf')
+sceneform.asset('sampledata/Plants/AppleTree.obj',
+                'default',
+                'sampledata/AppleTree.sfa',
+                'src/main/assets/AppleTree')
+sceneform.asset('sampledata/Plants/BananaTree.obj',
+        'default',
+        'sampledata/BananaTree.sfa',
+        'src/main/assets/BananaTree')
+sceneform.asset('sampledata/Plants/Bromeliads.obj',
+        'default',
+        'sampledata/Bromeliads.sfa',
+        'src/main/assets/Bromeliads')
+sceneform.asset('sampledata/Plants/ElmTree.obj',
+        'default',
+        'sampledata/ElmTree.sfa',
+        'src/main/assets/ElmTree')
+sceneform.asset('sampledata/Plants/FiddleleafFigPottedPlant.obj',
+        'default',
+        'sampledata/FiddleleafFigPottedPlant.sfa',
+        'src/main/assets/FiddleleafFigPottedPlant')
+sceneform.asset('sampledata/Plants/IvoryCanePalmTree.obj',
+        'default',
+        'sampledata/IvoryCanePalmTree.sfa',
+        'src/main/assets/IvoryCanePalmTree')
+sceneform.asset('sampledata/Plants/PUSHILIN_bamboo.obj',
+        'default',
+        'sampledata/PUSHILIN_bamboo.sfa',
+        'src/main/assets/PUSHILIN_bamboo')
+sceneform.asset('sampledata/Plants/PUSHILIN_Pinecone.obj',
+        'default',
+        'sampledata/PUSHILIN_Pinecone.sfa',
+        'src/main/assets/PUSHILIN_Pinecone')
+sceneform.asset('sampledata/Plants/Saguaro.obj',
+        'default',
+        'sampledata/Saguaro.sfa',
+        'src/main/assets/Saguaro')
+sceneform.asset('sampledata/Plants/SpruceTree.obj',
+        'default',
+        'sampledata/SpruceTree.sfa',
+        'src/main/assets/SpruceTree')
+sceneform.asset('sampledata/Plants/SycamoreTree.obj',
+        'default',
+        'sampledata/SycamoreTree.sfa',
+        'src/main/assets/SycamoreTree')

@@ -1,0 +1,50 @@
+{
+  materials: [
+    {
+      name: 'None',
+      parameters: [
+        {
+          baseColor: 'PUSHILIN_Pinecone',
+        },
+        {
+          baseColorTint: [
+            0.80000000000000004,
+            0.80000000000000004,
+            0.80000000000000004,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/Plants/PUSHILIN_Pinecone.obj',
+    name: 'PUSHILIN_Pinecone',
+    recenter: 'root',
+    scale: 0.84603700000000004,
+  },
+  samplers: [
+    {
+      file: 'sampledata/Plants\\PUSHILIN_Pinecone.png',
+      name: 'PUSHILIN_Pinecone',
+      pipeline_name: 'PUSHILIN_Pinecone.png',
+    },
+  ],
+  version: '0.54:2',
+}
