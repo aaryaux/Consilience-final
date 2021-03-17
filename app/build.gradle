@@ -98,10 +98,7 @@ sceneform.asset('sampledata/Plants/SycamoreTree.obj',
         'default',
         'sampledata/SycamoreTree.sfa',
         'src/main/assets/SycamoreTree')
-sceneform.asset('sampledata/Birds/GreatEgret.obj',
-        'default',
-        'sampledata/GreatEgret.sfa',
-        'src/main/assets/GreatEgret')
+
 sceneform.asset('sampledata/Birds/GreatHornedOwl.obj',
         'default',
         'sampledata/GreatHornedOwl.sfa',
