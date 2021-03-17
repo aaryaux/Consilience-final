@@ -98,3 +98,28 @@ sceneform.asset('sampledata/Plants/SycamoreTree.obj',
         'default',
         'sampledata/SycamoreTree.sfa',
         'src/main/assets/SycamoreTree')
+sceneform.asset('sampledata/Birds/GreatEgret.obj',
+        'default',
+        'sampledata/GreatEgret.sfa',
+        'src/main/assets/GreatEgret')
+sceneform.asset('sampledata/Birds/GreatHornedOwl.obj',
+        'default',
+        'sampledata/GreatHornedOwl.sfa',
+        'src/main/assets/GreatHornedOwl')
+sceneform.asset('sampledata/Birds/Hummingbird.obj',
+        'default',
+        'sampledata/Hummingbird.sfa',
+        'src/main/assets/Hummingbird')
+sceneform.asset('sampledata/Birds/HyacinthMacaw.obj',
+        'default',
+        'sampledata/HyacinthMacaw.sfa',
+        'src/main/assets/HyacinthMacaw')
+sceneform.asset('sampledata/Birds/Mesh_Penguin.obj',
+        'default',
+        'sampledata/Mesh_Penguin.sfa',
+        'src/main/assets/Mesh_Penguin')
+sceneform.asset('sampledata/Birds/Mesh_Eagle.obj',
+        'default',
+        'sampledata/Mesh_Eagle.sfa',
+        'src/main/assets/Mesh_Eagle')
+
